@@ -10,7 +10,7 @@ Features:
     Ability to handle multiple conversational turns
 
 Usage:
-To use the chatbot, simply run the app.py script and go to the provided URL. You can interact with the chatbot using the voice command input, and the responses will be spoken out loud using Google's Text-to-Speech API.
+To use the chatbot, simply run the consultant-ai.py script and go to the provided URL. You can interact with the chatbot using the voice command input, and the responses will be spoken out loud using Google's Text-to-Speech API.
 
 Dependencies:
 
