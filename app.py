@@ -24,7 +24,7 @@ def main():
         response = openai.chat.completions.create(
             model="gpt-4o",
             messages=[
-                {"role": "system", "content": "You are JARVISH, an AI assistant that helps you with your daily tasks."},
+                {"role": "system", "content": "You are KRAIGERF, an AI assistant that helps you with your daily tasks."},
                 {"role": "user", "content": transcription.text}
             ]
         )
