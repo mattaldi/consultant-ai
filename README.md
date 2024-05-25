@@ -1,4 +1,4 @@
-#kraigerf: AI Voice Assistant using GPT-4o
+kraigerf: AI Voice Assistant using GPT-4o
 
 Voice-activated assistant using OpenAI's Whisper, GPT-4o, and Text-to-Speech API
 Features:
